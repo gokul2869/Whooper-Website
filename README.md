@@ -1,4 +1,4 @@
-# Whooper-Website
+
 # WhoooperWave - Logo Design Project
 
 ## Introduction
