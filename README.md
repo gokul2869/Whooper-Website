@@ -36,3 +36,20 @@ The logo will be used on the website, business cards, social media profiles, and
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/whoooperwave-logo.git
+
+**Project Structure**
+index.html - The main HTML file.
+
+styles.css - The CSS file containing styles for the project.
+
+**Contribution**
+
+
+Feel free to contribute by submitting a pull request. Let's make WhoooperWave shine! 🚀
+
+
+**Contact**
+
+If you have any questions or suggestions, please feel free to reach out!
+
+**Happy coding! 😃**
